@@ -5,5 +5,3 @@ Contribuições são bem-vindas! Se você encontrar problemas, tiver sugestões 
 
 Contato
 Em caso de dúvidas ou sugestões relacionadas a este projeto, entre em contato comigo através do e-mail: bernardo.almeida@uscsonline.com.br
-
-Espero que este exemplo de README possa ajudar você a começar com o seu projeto React utilizando Vite e a API do GitHub. Lembre-se de personalizar as informações de acordo com o seu projeto e adicionar seções adicionais, se necessário.
