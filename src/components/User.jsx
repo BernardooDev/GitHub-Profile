@@ -26,14 +26,15 @@ const Users = ({ value }) => {
       </div>
       <div className="aboutProfile">
         <div className="detailsProfile">
-          Following <p>{dados && dados.following}</p>
+          <h5>Following </h5>
+          <p>{dados && dados.following}</p>
         </div>
         <div className="detailsProfile">
-          Type <p>{dados && dados.type}</p>
+          <h5>Type</h5> <p>{dados && dados.type}</p>
         </div>
 
         <div className="detailsProfile">
-          Followers <p>{dados && dados.followers}</p>
+          <h5>Followers</h5> <p>{dados && dados.followers}</p>
         </div>
       </div>
     </div>
