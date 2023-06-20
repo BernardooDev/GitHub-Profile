@@ -22,7 +22,7 @@ const Users = ({ value }) => {
         <img src={dados && dados.avatar_url} alt="Profile Picture" />
       </div>
       <div className="gitHub">
-        <img src="./assets/github-mark.svg" />
+        <img src="./github-mark.svg" />
       </div>
       <div className="aboutProfile">
         <div className="detailsProfile">
